@@ -2,7 +2,7 @@
 
 ## Base URL
 ```
-https://your-railway-domain.railway.app
+https://api.predictresistantibiotics.site
 ```
 
 ## Endpoints
